@@ -1,0 +1,99 @@
+{
+  "loading": "Завантаження...",
+  "header": {
+    "nav": {
+      "home": "Головна",
+      "company": "Компанія",
+      "practice": "Практики",
+      "news": "Новини",
+      "contacts": "Контакти"
+    },
+    "btnAppoitment": "Записатись на консультацію"
+  },
+  "owner": {
+    "title": "Адвокатська компанія",
+    "subTitle": "«STATUS»"
+  },
+  "information": {
+    "title": "Те, що відрізняє нас від інших"
+  },
+  "team": {
+    "title": "Наша професійна команда",
+    "subTitle": "Ключовим активом AК «STATUS» є досвідчена та висококваліфікована команда юристів та адвокатів."
+  },
+  "practiceSection": {
+    "title": "Ключові практики, в яких ми надаємо юридичну експертизу",
+    "moreButton": "Читати далі",
+    "hideButton": "Згорнути"
+  },
+  "proBono": {
+    "title": "ProBono"
+  },
+  "results": {
+    "title": "Нам доручено розв'язувати найскладніші правові питання наших клієнтів",
+    "subTitle": "Ми пишаємося успіхами та результатами, яких ми досягаємо в процесі роботи. Адвокати АК «STATUS» володіють багаторічним досвідом у різних сферах права і завжди готові захищати ваші інтереси з великою ретельністю та віддачею"
+  },
+  "clients": {
+    "title": "Наші клієнти"
+  },
+  "clientsReviews": {
+    "title": "Відгуки"
+  },
+  "feedBackForm": {
+    "title": "Зв'яжіться з acstatus.mk@gmail.com",
+    "labelName": "Ваше ім’я",
+    "placeholderName": "Введіть ім’я",
+    "labelPhone": "Ваш номер телефону",
+    "labelEmail": "Ваша електронна пошта",
+    "labelQuestion": "Ваше питання",
+    "placeholderQuestion": "Введіть питання",
+    "submitButton": "Відправити"
+  },
+  "footer": {
+    "titleCompany": "ADVOCATE COMPANY «STATUS»",
+    "bottomSign": "ADVOCATE COMPANY «STATUS». All rights reserved.",
+    "privacyDocTitle": "Політика конфіденційності",
+    "termsUseSiteDocTitle": "Правила користування сайтом"
+  },
+  "appointmentForm": {
+    "firstTitle": "Контактна інформація",
+    "inputFirstName": "Ім’я",
+    "inputLastName": "Прізвище",
+    "inputPhone": "Телефон *",
+    "inputEmail": "E-mail",
+    "privacyTitle": "Надаю дозвіл на обробку персональних даних",
+    "privacyButton": "Політика конфіденційності",
+    "nextButton": "Продовжити",
+    "cancelButton": "Скасувати",
+    "skipButton": "Пропустити",
+    "submitButton": "Записатись",
+    "secondTitle": "Записатись на консультацію",
+    "specializationSelectTitle": "Обрати спеціалізацію",
+    "specializationSelectDefault": "Спеціалізація",
+    "lawyerSelectTitle": "Обрати спеціаліста",
+    "lawyerSelectDefault": "Спеціаліст",
+    "thirdTitle": "Обрати дату",
+    "fourthTitle": "Обрати час",
+    "successTitle": "Вітаємо!",
+    "successTextOne": "Ви успішно записались на консультацію.",
+    "successTextOneFeedBack": "Ваше повідомлення успішно доставлене.",
+    "successTextTwo": "Ми зв'яжемося з Вами найближчим часом.",
+    "failureTitle": "Вибачте!",
+    "failureTextOne": "Виникла помилка.",
+    "failureTextTwo": "Будь ласка, оберіть іншу дату консультації.",
+    "failureTextTwoFeedBack": "Будь ласка, спробуйте ще раз.",
+    "returnButton": "Повернутись"
+  },
+  "companyPage": {
+    "title": "Про нашу компанію",
+    "subTitle": "Адвокатська компанія «STATUS»"
+  },
+  "contactsPage": {
+    "title": "ADVOCATE COMPANY «STATUS»"
+  },
+  "errorPage": {
+    "title": "404",
+    "subTitle": "На жаль, сторінка, яку ви шукаєте, видалена або не існує",
+    "button": "Повернутись на головну"
+  }
+}
